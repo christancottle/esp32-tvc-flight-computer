@@ -12,6 +12,7 @@ An ESP32-powered flight control system for TVC rocket stabilization and telemetr
 Flight telemetry is recorded at 50Hz and exported via Serial command (`dump`). Below is the data visualization from a successful benchtop flight test showing TVC correction, state transitions, and acceleration profile:
 
 ![Flight Telemetry](tvc_telemetry_plots.png)
+https://github.com/user-attachments/assets/96670d35-5618-43b6-9ee7-020bd4addf89
 
 ## 🛠️ Hardware Requirements
 - ESP32 Development Board
